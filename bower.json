@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "angular": "^1.5.5",
-    "echarts": "~3.2.3"
+    "echarts": "https://github.com/xiafan68/echarts.git#3.2.3_bower"
   },
   "devDependencies": {}
 
